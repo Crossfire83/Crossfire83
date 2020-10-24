@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Oracle Health Sciences**
 
-- 👨‍💻 All of my (non-professional) projects are available at [github.com/crossfire83](github.com/crossfire83)
+- 👨‍💻 All of my (non-professional) projects are available at [github.com/crossfire83](https://github.com/Crossfire83)
 
 - 💬 Ask me about **C#, Java, Sql Server**
 
