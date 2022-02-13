@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crossfire83&label=Profile%20views&color=0e75b6&style=flat" alt="crossfire83" /> </p>
 
-- 🔭 I’m currently working on **Oracle Health Sciences**
+- 🔭 I’m currently working on **Wizeline**
 
 - 👨‍💻 All of my (non-professional) projects are available at [github.com/crossfire83](https://github.com/Crossfire83)
 
-- 💬 Ask me about **C#, Java, Sql Server**
+- 💬 Ask me about **C#, Angular, Sql Server**
 
 - 📫 How to reach me **raul96p@outlook.com**
 
