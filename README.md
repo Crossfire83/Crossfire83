@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my (non-professional) projects are available at [github.com/crossfire83](https://github.com/Crossfire83)
 
-- 💬 Ask me about **C#, Angular, Sql Server**
+- 💬 Ask me about **Java, SpringBoot, API's, Sql**
 
 - 📫 How to reach me **raul96p@outlook.com**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/przmraul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="przmraul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raúl rodrigo pérez marrero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raúl rodrigo pérez marrero" height="30" width="40" /></a>
 <a href="https://fb.com/raúl pérez marrero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raúl pérez marrero" height="30" width="40" /></a>
 <a href="https://instagram.com/raul.przm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raul.przm" height="30" width="40" /></a>
