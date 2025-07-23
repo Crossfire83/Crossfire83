@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raúl rodrigo pérez marrero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raúl rodrigo pérez marrero" height="30" width="40" /></a>
-<a href="https://fb.com/raúl pérez marrero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raúl pérez marrero" height="30" width="40" /></a>
-<a href="https://instagram.com/raul.przm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raul.przm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raul-rodrigo-perez-marrero/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raúl rodrigo pérez marrero" height="30" width="40" /></a>
+<a href="https://www.facebook.com/raul.perezmarrero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raúl pérez marrero" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raul.perishm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raul.przm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
